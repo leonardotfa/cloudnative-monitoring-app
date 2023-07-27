@@ -15,13 +15,13 @@
 6.Criar deployments e services usando o Python.
 ```
 
-##**Pré-requisitos!**
+## **Pré-requisitos!**
 
--[x]Conta AWS.
--[x]Configurar a CLI da AWS.
--[x]Python3 instalado.
--[x]Docker e Kubectl instalados.
--[x]Editor de código (Vscode).
+- [x]Conta AWS.
+- [x]Configurar a CLI da AWS.
+- [x]Python3 instalado.
+- [x]Docker e Kubectl instalados.
+- [x]Editor de código (Vscode).
 
 #✨Vamos começar o projeto!✨
 
