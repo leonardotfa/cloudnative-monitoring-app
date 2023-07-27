@@ -23,7 +23,7 @@
 - [x]Docker e Kubectl instalados.
 - [x]Editor de código (Vscode).
 
-#✨Vamos começar o projeto!✨
+# ✨Vamos começar o projeto!✨
 
 ## **Parte 1: Implantação do aplicativo Flask localmente**
 
@@ -84,7 +84,7 @@ EXPOSE 5000
 CMD ["flask", "run"]
 ```
 
-### **Passo 2: Construir a imagem Docker*
+### **Passo 2: Construir a imagem Docker**
 
 Para construir a imagem Docker, execute o seguinte comando:
 
