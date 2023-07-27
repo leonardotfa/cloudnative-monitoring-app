@@ -1,4 +1,4 @@
-# **Aplicativo de monitoramento de recursos nativo em cloud no K8s!**
+# **Aplicativo de monitoramento de recursos nativos em cloud no K8s!**
 
 ## O que você irá aprender:
 
