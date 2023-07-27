@@ -1,6 +1,6 @@
-#**Aplicativo de monitoramento de recursos nativo em cloud no K8s!**
+# **Aplicativo de monitoramento de recursos nativo em cloud no K8s!**
 
-##Coisas que você vai aprender 🤯
+## O que você irá aprender:
 
 ```
 1.Python: como criar um aplicativo de monitoramento em Python usando Flask e psutil.
