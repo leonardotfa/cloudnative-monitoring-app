@@ -6,10 +6,10 @@
 1.Python: como criar um aplicativo de monitoramento em Python usando Flask e psutil.
 2.Como executar um aplicativo Python localmente.
 3.Aprender Docker e como dockerizar um aplicativo Python em um contêiner.
-    1.Criar Dockerfile.
-    2.Construir uma imagem Docker.
-    3.Executar um contêiner.
-    4.Comandos Docker.
+    3.1.Criar Dockerfile.
+    3.2.Construir uma imagem Docker.
+    3.3.Executar um contêiner.
+    3.4.Comandos Docker.
 4.Criar um repositório ECR usando o Python Boto3 e enviar a imagem Docker para o ECR.
 5.Aprender Kubernetes e como criar um cluster EKS e um grupos de nós.
 6.Criar deployments e services usando o Python.
@@ -17,11 +17,11 @@
 
 ## **Pré-requisitos!**
 
-- [x]Conta AWS.
-- [x]Configurar a CLI da AWS.
-- [x]Python3 instalado.
-- [x]Docker e Kubectl instalados.
-- [x]Editor de código (Vscode).
+- [x] Conta AWS.
+- [x] Configurar a CLI da AWS.
+- [x] Python3 instalado.
+- [x] Docker e Kubectl instalados.
+- [x] Editor de código (Vscode).
 
 # ✨Vamos começar o projeto!✨
 
